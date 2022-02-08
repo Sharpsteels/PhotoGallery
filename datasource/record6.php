@@ -13,6 +13,6 @@ array  // the sixth array inside "content": child array #6
       'h1title'           => "Squirrel in a Tree",
       'imagepath'         => "/img/IMG_5884.jpg",
       'caption'           => "A squirrel in a tree at John Abbott College",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

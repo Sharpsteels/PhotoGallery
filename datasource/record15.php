@@ -13,6 +13,6 @@ array  // the fifteenth array inside "content": child array #15
       'h1title'           => "Weeping Willows",
       'imagepath'         => "/img/armstrong-ethan-004-44.jpg",
       'caption'           => "A pair of Weeping Willows at John Abbott College",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

@@ -13,6 +13,6 @@ array  // the twelfth array inside "content": child array #12
       'h1title'           => "Red Berries",
       'imagepath'         => "/img/IMG_0766.jpg",
       'caption'           => "Vivid red berries located in a garden in L'Orignal",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

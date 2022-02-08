@@ -1,0 +1,85 @@
+body {
+    background-color: #ADD8E6;
+}
+
+p {
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Philosopher','Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+    margin-bottom: 1.5em;
+}
+
+figure {
+	border: 1px solid #456;
+	margin: 1rem;
+	padding: 1rem;
+    position: relative;
+}
+
+figcaption {
+	margin: 0.75rem 0 0 0;
+    position: absolute;
+    bottom: 0.5rem;
+}
+
+.home a {
+    width: 3rem;
+    height: 3rem;
+    display: block;
+    margin: 2em auto;
+}
+
+/* MEDIA QUERIES */
+
+@media only screen and (min-width: 466px) {
+
+	main.thumbs figure {
+		width: 434px;
+		margin: 1rem auto 2rem auto;
+    }
+}
+
+@media only screen and (min-width: 918px) {
+    main.thumbs {
+        display: grid;
+        padding: 0;
+        grid-template-columns: 434px 434px;
+        grid-column-gap: 1rem;
+        width: 886px;
+        margin: 1rem auto;
+    }
+}
+
+@media only screen and (min-width: 1368px) {
+    main.thumbs {
+        grid-template-columns: 434px 434px 434px;
+        grid-column-gap: 1rem;
+        width: 1336px;
+    }
+}
+
+@media only screen and (min-width: 1266px) {
+
+	main.highres figure {
+		width: 1234px;
+		margin: 1rem auto 2rem auto;
+    }
+}

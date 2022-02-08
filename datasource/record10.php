@@ -13,6 +13,6 @@ array  // the tenth array inside "content": child array #10
       'h1title'           => "Sainte-Anne-de-Bellevue Waterfront",
       'imagepath'         => "/img/armstrong-ethan-004-39.jpg",
       'caption'           => "The Sainte-Anne-de-Bellevue waterfront",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

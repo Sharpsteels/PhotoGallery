@@ -13,6 +13,6 @@ array  // the nineteenth array inside "content": child array #19
       'h1title'           => "Colourful Trees",
       'imagepath'         => "/img/IMG_0797.jpg",
       'caption'           => "A group of trees with a mixture of different coloured leaves",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

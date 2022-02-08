@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
     'h1title'           => "The Bird House",
     'imagepath'         => "/img/IMG_0770.jpg",
     'caption'           => "A bird house on a wooden pole in L'Orignal",
-    'copyright'         => "&copy Ethan Armstrong, 2021")
+    'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>  

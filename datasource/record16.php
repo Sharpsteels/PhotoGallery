@@ -13,6 +13,6 @@ array  // the sixteenth array inside "content": child array #16
       'h1title'           => "Evergreens",
       'imagepath'         => "/img/IMG_0788.jpg",
       'caption'           => "Two evergreen trees in Hudson, Quebec",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

@@ -13,6 +13,6 @@ array  // the eighteenth array inside "content": child array #18
       'h1title'           => "A Leafless Forest",
       'imagepath'         => "/img/IMG_0804.jpg",
       'caption'           => "A forest with trees without leaves in the cold fall",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

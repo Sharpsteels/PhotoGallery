@@ -13,6 +13,6 @@ array  // the thirteenth array inside "content": child array #13
       'h1title'           => "L'Orignal Waterfront",
       'imagepath'         => "/img/IMG_0753.jpg",
       'caption'           => "A black and white image of a peninsula on the waterfront",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

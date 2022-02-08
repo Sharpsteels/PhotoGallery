@@ -13,6 +13,6 @@ array  // the twentieth array inside "content": child array #20
       'h1title'           => "The Bottom of the Tree",
       'imagepath'         => "/img/armstrong-ethan-004-39.jpg",
       'caption'           => "A perspective of a large tree from the bottom facing upwards",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

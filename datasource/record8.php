@@ -13,6 +13,6 @@ array  // the eighth array inside "content": child array #8
       'h1title'           => "Gathering Geese",
       'imagepath'         => "/img/IMG_0745.jpg",
       'caption'           => "A flock of geese sitting on the water",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

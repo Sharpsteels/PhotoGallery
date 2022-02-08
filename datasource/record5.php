@@ -13,6 +13,6 @@ array  // the fifth array inside "content": child array #5
       'h1title'           => "Bird by the Waterfront",
       'imagepath'         => "/img/armstrong-ethan-004-27.jpg",
       'caption'           => "A bird by the waterfront of Saint-Anne-de-Bellevue, Quebec",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

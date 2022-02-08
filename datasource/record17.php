@@ -13,6 +13,6 @@ array  // the seventeenth array inside "content": child array #17
       'h1title'           => "Babbling Brook",
       'imagepath'         => "/img/IMG_0812.jpg",
       'caption'           => "A small brook meandering through a swampy forest in Hudson",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

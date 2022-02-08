@@ -1,7 +1,7 @@
 <?php
 
-    $metatitle = "Photography Gallery";
-    $metadescription = "Photography Gallery by Billy Poppins";
+    $metatitle = "Armstrong Photography";
+    $metadescription = "Photography Gallery by Ethan Armstrong";
 
     require_once $_SERVER["DOCUMENT_ROOT"] . "/datasource/recordset-thumbnails.php";
 
@@ -12,7 +12,7 @@ echo "<h1>" . $metatitle . "</h1>" . "\r\n";
 
 
 
-echo "<main>" . "\r\n";
+echo '<main class="thumbs">' . "\r\n";
 // open the <main> tag
 
 

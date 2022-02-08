@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
       'h1title'           => "Purple Plants",
       'imagepath'         => "/img/img_0771.jpg",
       'caption'           => "A cluster of purple plants in a garden",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>  

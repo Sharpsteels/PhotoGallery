@@ -13,6 +13,6 @@ array  // the seventh array inside "content": child array #7
       'h1title'           => "Pink Weeds",
       'imagepath'         => "/img/armstrong-ethan-004-45.jpg",
       'caption'           => "A close-up of pink weeds at John Abbott College",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>

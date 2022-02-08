@@ -13,6 +13,6 @@ array  // the fourth array inside "content": child array #4
       'h1title'           => "Fire Tree",
       'imagepath'         => "/img/IMG_5598.jpg",
       'caption'           => "A tree with vivid fall colours at John Abbott College",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>  

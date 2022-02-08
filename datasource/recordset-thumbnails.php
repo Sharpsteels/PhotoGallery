@@ -55,7 +55,7 @@ array (   // the first array inside "content":: child array #1
             'metatitle'         => "Squirrel in a Tree",
             'metadescription'   => "A squirrel in a tree at John Abbott College",
             'h1title'           => "Squirrel in a Tree",
-            'imagepath'         => "/img/IMG_5884.jpg",
+            'imagepath'         => "/img/thumbs/IMG_5884.jpg",
             'caption'           => "A squirrel in a tree at John Abbott College",
             'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -64,7 +64,7 @@ array (   // the first array inside "content":: child array #1
               'metatitle'         => "Pink Weeds",
               'metadescription'   => "A close-up of pink weeds at John Abbott College",
               'h1title'           => "Pink Weeds",
-              'imagepath'         => "/img/armstrong-ethan-004-45.jpg",
+              'imagepath'         => "/img/thumbs/armstrong-ethan-004-45.jpg",
               'caption'           => "A close-up of pink weeds at John Abbott College",
               'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -73,7 +73,7 @@ array (   // the first array inside "content":: child array #1
                 'metatitle'         => "Gathering Geese",
                 'metadescription'   => "A flock of geese sitting on the water",
                 'h1title'           => "Gathering Geese",
-                'imagepath'         => "/img/IMG_0745.jpg",
+                'imagepath'         => "/img/thumbs/IMG_0745.jpg",
                 'caption'           => "A flock of geese sitting on the water",
                 'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -82,7 +82,7 @@ array (   // the first array inside "content":: child array #1
                   'metatitle'         => "Squirrel in the Sun",
                   'metadescription'   => "A squirrel looking for acorns in the sun at John Abbott College",
                   'h1title'           => "Squirrel in the Sun",
-                  'imagepath'         => "/img/IMG_5603.jpg",
+                  'imagepath'         => "/img/thumbs/IMG_5603.jpg",
                   'caption'           => "A squirrel looking for acorns in the sun at John Abbott College",
                   'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -91,7 +91,7 @@ array (   // the first array inside "content":: child array #1
                     'metatitle'         => "Sainte-Anne-de-Bellevue Waterfront",
                     'metadescription'   => "The Sainte-Anne-de-Bellevue waterfront",
                     'h1title'           => "Sainte-Anne-de-Bellevue Waterfront",
-                    'imagepath'         => "/img/armstrong-ethan-004-39.jpg",
+                    'imagepath'         => "/img/thumbs/armstrong-ethan-004-39.jpg",
                     'caption'           => "The Sainte-Anne-de-Bellevue waterfront",
                     'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -100,7 +100,7 @@ array (   // the first array inside "content":: child array #1
                       'metatitle'         => "Wooden Shack",
                       'metadescription'   => "A wooden shack facing the water in L'Orignal, Ontario",
                       'h1title'           => "Wooden Shack",
-                      'imagepath'         => "/img/IMG_0751.jpg",
+                      'imagepath'         => "/img/thumbs/IMG_0751.jpg",
                       'caption'           => "A wooden shack facing the water in L'Orignal, Ontario",
                       'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -109,7 +109,7 @@ array (   // the first array inside "content":: child array #1
                         'metatitle'         => "Red Berries",
                         'metadescription'   => "Vivid red berries located in a garden in L'Orignal",
                         'h1title'           => "Red Berries",
-                        'imagepath'         => "/img/IMG_0766.jpg",
+                        'imagepath'         => "/img/thumbs/IMG_0766.jpg",
                         'caption'           => "Vivid red berries located in a garden in L'Orignal",
                         'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -118,7 +118,7 @@ array (   // the first array inside "content":: child array #1
                           'metatitle'         => "L'Orignal Waterfront",
                           'metadescription'   => "A black and white image of a peninsula on the waterfront",
                           'h1title'           => "L'Orignal Waterfront",
-                          'imagepath'         => "/img/IMG_0753.jpg",
+                          'imagepath'         => "/img/thumbs/IMG_0753.jpg",
                           'caption'           => "A black and white image of a peninsula on the waterfront",
                           'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -127,7 +127,7 @@ array (   // the first array inside "content":: child array #1
                             'metatitle'         => "Yellow Flowers",
                             'metadescription'   => "A group of yellow flowers in a garden in L'Orignal",
                             'h1title'           => "Yellow Flowers",
-                            'imagepath'         => "/img/IMG_0757.jpg",
+                            'imagepath'         => "/img/thumbs/IMG_0757.jpg",
                             'caption'           => "A group of yellow flowers in a garden in L'Orignal",
                             'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -136,7 +136,7 @@ array (   // the first array inside "content":: child array #1
                               'metatitle'         => "Weeping Willows",
                               'metadescription'   => "A pair of Weeping Willows at John Abbott College",
                               'h1title'           => "Weeping Willows",
-                              'imagepath'         => "/img/armstrong-ethan-004-44.jpg",
+                              'imagepath'         => "/img/thumbs/armstrong-ethan-004-44.jpg",
                               'caption'           => "A pair of Weeping Willows at John Abbott College",
                               'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -145,7 +145,7 @@ array (   // the first array inside "content":: child array #1
                                 'metatitle'         => "Evergreens",
                                 'metadescription'   => "Two evergreen trees in Hudson, Quebec",
                                 'h1title'           => "Evergreens",
-                                'imagepath'         => "/img/IMG_0788.jpg",
+                                'imagepath'         => "/img/thumbs/IMG_0788.jpg",
                                 'caption'           => "Two evergreen trees in Hudson, Quebec",
                                 'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -154,7 +154,7 @@ array (   // the first array inside "content":: child array #1
                                   'metatitle'         => "Babbling Brook",
                                   'metadescription'   => "A small brook meandering through a swampy forest in Hudson",
                                   'h1title'           => "Babbling Brook",
-                                  'imagepath'         => "/img/IMG_0812.jpg",
+                                  'imagepath'         => "/img/thumbs/IMG_0812.jpg",
                                   'caption'           => "A small brook meandering through a swampy forest in Hudson",
                                   'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -163,7 +163,7 @@ array (   // the first array inside "content":: child array #1
                                     'metatitle'         => "A Leafless Forest",
                                     'metadescription'   => "A forest with trees without leaves in the cold fall",
                                     'h1title'           => "A Leafless Forest",
-                                    'imagepath'         => "/img/IMG_0804.jpg",
+                                    'imagepath'         => "/img/thumbs/IMG_0804.jpg",
                                     'caption'           => "A forest with trees without leaves in the cold fall",
                                     'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -172,7 +172,7 @@ array (   // the first array inside "content":: child array #1
                                       'metatitle'         => "Colourful Trees",
                                       'metadescription'   => "A group of trees with a mixture of different coloured leaves",
                                       'h1title'           => "Colourful Trees",
-                                      'imagepath'         => "/img/IMG_0797.jpg",
+                                      'imagepath'         => "/img/thumbs/IMG_0797.jpg",
                                       'caption'           => "A group of trees with a mixture of different coloured leaves",
                                       'copyright'         => "&copy Ethan Armstrong, 2021"),
 
@@ -181,7 +181,7 @@ array (   // the first array inside "content":: child array #1
                                         'metatitle'         => "The Bottom of the Tree",
                                         'metadescription'   => "A perspective of a large tree from the bottom facing upwards",
                                         'h1title'           => "The Bottom of the Tree",
-                                        'imagepath'         => "/img/armstrong-ethan-004-39.jpg",
+                                        'imagepath'         => "/img/thumbs/armstrong-ethan-004-39.jpg",
                                         'caption'           => "A perspective of a large tree from the bottom facing upwards",
                                         'copyright'         => "&copy Ethan Armstrong, 2021"),
 

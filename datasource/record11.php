@@ -13,6 +13,6 @@ array  // the eleventh array inside "content": child array #11
       'h1title'           => "Wooden Shack",
       'imagepath'         => "/img/IMG_0751.jpg",
       'caption'           => "A wooden shack facing the water in L'Orignal, Ontario",
-      'copyright'         => "&copy Ethan Armstrong, 2021")
+      'copyright'         => "&copy Ethan Armstrong, 2021"),
 );
 ?>
